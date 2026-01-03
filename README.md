@@ -1,5 +1,4 @@
 # Git Reference Guide
-## دليلك الشامل لـ Git
 
 Hey! This is my personal Git reference that I put together while learning. It's not perfect, but it covers everything I use daily. The Arabic parts are there to help me remember stuff faster.
 
@@ -12,10 +11,10 @@ Git is version control - basically a time machine for your code. You can save sn
 Think of it like Google Docs version history but way more powerful.
 
 **Key terms:**
-- **Repository/Repo (مستودع)** - Your project folder that Git tracks
-- **Commit (إيداع)** - A save point, like a checkpoint in a game
-- **Branch (فرع)** - A separate timeline where you can work on stuff
-- **Remote (البعيد)** - The version on GitHub/GitLab
+- **Repository/Repo** - Your project folder that Git tracks
+- **Commit** - A save point, like a checkpoint in a game
+- **Branch** - A separate timeline where you can work on stuff
+- **Remote** - The version on GitHub/GitLab
 - **HEAD** - Where you are right now in the project history
 
 ---
